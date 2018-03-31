@@ -1,61 +1,11 @@
 ---
-title: O n·s 
+title: O n√°s 
 menu:
   main:
     weight: 30
 ---
 
 
-<<<<<<< HEAD
-1. cÌlov· skupina: turistÈ a v˝letnÌci, kte¯Ì r·di objevujÌ nov· a zajÌmav· mÌsta Brna
-2. Sezn·mit n·vötÏvnÌky str·nek se vöelijak˝mi pamÏtihodnostmi, mÌsty a
-umÏnÌm
-na ˙zemÌ mÏsta Brna (i s tÏmi mÈnÏ zn·mÏjöÌmi a neproslaven˝mi). Uûivatele
-by
-mohly str·nky navnadit na v˝let do zde popsan˝ch lokalit (tedy poslouûili by
-jako tip na v˝let). CelkovÏ by jim mohli rozöÌ¯it pohled na mÏsto Brno.†
-
-3. ZajÌmav· mÌsta Brna.†
-4.
-https://www.brno.cz/uvodni-strana/
-https://mapy.cz
-https://www.google.cz/maps
-https://www.gotobrno.cz/poznejte-brno/poznejte-dalsi-zajimava-mista-v-brne/
-https://www.tripadvisor.cz/Attractions-g274714-Activities-c47-t163-Brno_South_Moravian_Region_Moravia.html
-
-5.†
-SEDL¡K, Jan, ed. SlavnÈ brnÏnskÈ vily. V BrnÏ: Foblios, 2006. ISBN
-80-903661-5-5
-PEL»¡K, Petr a VladimÌr äLAPETA. Brno architektura 1918-1939. V BrnÏ: Centrum
-architektury, 2015. ISBN 978-80-905330-0-4.
-USE-IT mapa Brno (k dispozici zdarma na informacÌch)
-Brno Mapa mÏsta 
-Pr˘vodce Brnem †
-
-6.†
-https://www.youtube.com/user/cityofbrno
-https://www.google.cz/search?q=brno&rlz=1C1AVNE_enCZ662CZ662&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiI3L2Zn4_aAhWQGuwKHUIXBc0Q_AUICygC&biw=1366&bih=637#imgrc=2KIJhsCFfD1snM:
-https://www.google.cz/search?rlz=1C1AVNE_enCZ662CZ662&biw=1366&bih=637&tbm=isch&sa=1&ei=3qi7WonLOK3ikgWMm6Ag&q=denisovy+sady+brno+&oq=denisovy+sady+brno+&gs_l=psy-ab.3..0i30k1.22574.26687.0.26800.21.12.1.8.9.0.94.812.12.12.0....0...1c.1.64.psy-ab..0.20.783...0j0i67k1j0i24k1j0i5i30k1.0.rIwgyBq-JPE#imgrc=cIfQn36tcF-v6M:
-
-7.†
-https://www.brno.cz/
-
-8.†
--˙vod, ˙vodnÌ strana†
--zajÌmavÈ lokality†
--stavby†
--sochy†
--mapa zmÌnÏn˝ch mÌst†
--p¯ÌrodnÌ zajÌmavosti
--kaöny
--ostatnÌ (cokoliv dalöÌho) 
--o n·s 
--kontakty 
-
-9. JednoduchÈ manu pro orientaci; vysvÏtlenÌ o Ëem web je 
-
-=======
->>>>>>> addec1d13bf89735bbbf5d93fde31c45fd63907b
 
 
 This is a minimal [Hugo][] website created for a course [VIKBA07][].
