@@ -6,6 +6,7 @@ menu:
 ---
 
 
+<<<<<<< HEAD
 1. cílová skupina: turisté a výletníci, kteøí rádi objevují nová a zajímavá místa Brna
 2. Seznámit návštìvníky stránek se všelijakými pamìtihodnostmi, místy a
 umìním
@@ -53,6 +54,8 @@ https://www.brno.cz/
 
 9. Jednoduché manu pro orientaci; vysvìtlení o èem web je 
 
+=======
+>>>>>>> addec1d13bf89735bbbf5d93fde31c45fd63907b
 
 
 This is a minimal [Hugo][] website created for a course [VIKBA07][].
