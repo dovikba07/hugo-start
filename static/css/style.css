@@ -1,17 +1,30 @@
+ body {
+     background: url(http://cdn.backgroundhost.com/backgrounds/subtlepatterns/brushed_alu.png)
+  }
+
+
 .wrapper {
   margin: 30px auto;
   max-width: 800px;
   padding: 20px;
+  background: white;
+
 }
 
 header {
   padding: 30px 0 0;
   border-bottom: solid;
+  background: red;
+  text-align: center;
+
+  
+
 }
 
 footer {
   border-top: solid;
   clear: both;
+  background: red;
 }
 
 .page {
@@ -21,23 +34,31 @@ footer {
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
+  background: white;
+
 }
 
 aside {
   float: left;
   width: 25%;
   margin-top: 1em;
+
 }
 
 nav ul {
   list-style-type: none;
   padding: 0;
+
 }
 
 nav li {
   margin-bottom: 1em;
+  background: red;
+  text-align: center;
 }
 
 nav .active {
   font-weight: bold;
+
+
 }
