@@ -1,5 +1,4 @@
 ---
-title: X
+title: 
 ---
 
-X
