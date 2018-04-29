@@ -33,21 +33,21 @@ To add new posts, simply add a file in the content/post directory that follows t
     </item>
     
     <item>
-      <title>Archive</title>
-      <link>https://dovikba07.github.io/hugo-start/post/_index---kopie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dovikba07.github.io/hugo-start/post/_index---kopie/</guid>
-      <description>Pokud m�te dost �asu a sil, vydejte se na velk� okruh centrem Brna. Projd�te si n�kter� z nejzaj�mav�j��ch a nejv�znamn�j��ch m�st. Za�nete nedaleko hlavn�ho vlakov�ho n�dra�� � na Kapuc�nsk�m n�m�st�, kde m��ete nav�t�vit brn�nsk� mumie, odtud vyjdete ke katedr�le na Petrov� a do Denisov�ch sad�. P�ekon�te ru�n� �ilingrovo n�m�st� a Husovu ulici a p�es �pilberk se dostanete k pozoruhodn�mu pravoslavn�mu kostelu. Na cest� zp�t do historick�ho j�dra m�sta na�erp�te s�ly a informace v nov�m infocentru TO JE Brno v Panensk� ulici.</description>
-    </item>
-    
-    <item>
       <title>O nás</title>
       <link>https://dovikba07.github.io/hugo-start/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dovikba07.github.io/hugo-start/about/</guid>
       <description>1.  cílová skupina: turisté a výletníci, kteří rádi objevují nová a zajímavá místa Brna  2.  Seznámit návštěvníky stránek se všelijakými pamětihodnostmi, místy a uměním na území města Brna (i s těmi méně známějšími a neproslavenými). Uživatele by mohly stránky navnadit na výlet do zde popsaných lokalit (tedy posloužili by jako tip na výlet). Celkově by jim mohli rozšířit pohled na město Brno.  3.  Zajímavá místa Brna.</description>
+    </item>
+    
+    <item>
+      <title>Úvodem o městě</title>
+      <link>https://dovikba07.github.io/hugo-start/post/_index---kopie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dovikba07.github.io/hugo-start/post/_index---kopie/</guid>
+      <description>Město Brno je druhé největší město v České republice, a to jak z pohledu počtu obyvatelstva (377 973) tak i rozlohy (230,22 km²). Pyšní se dvěma hrady (Špilberk se nachází poblíž centra města a hrad Veveří leží na samém kraji městě), přehradou, po které v jarní a převážně letní sezóně křižují parníky, Masarykovým okruhem (tedy závodním okruhem, který je jediný svého druhu v České republice a v létě se zde jezdí závody moto GP), hokejovým klubem HC Kometa Brno, který se obhájil mistrovský titul Extraligy ledního hokeje, podivuhodným orlojem (který možná umí i ukazovat čas) a spoustou dalších míst a zajímavostí.</description>
     </item>
     
   </channel>
