@@ -18,10 +18,13 @@ na území města Brna (i s těmi méně známějšími a neproslavenými). Uži
 by
 mohly stránky navnadit na výlet do zde popsaných lokalit (tedy posloužili by
    jako tip na výlet). Celkově by jim mohli rozšířit pohled na město Brno. </p> 
-
-
 <p> 3. </p>
 <p> Zajímavá místa Brna. </p>
+<p>Jako astronomka bych doporučila <a href="http://www.hvezdarna.cz">brněnskouhvězdárnu</a>, ale protože dnes se tam
+vědecká práce již neprovádí a je to spíše zábavní park, tak jsem vrámci úkolu vybrala otevřená data projektu SOHO, kde
+může pocit z astronomického objevu zažít opravdu kdokoli.</p>        
+
+<p>SOHO je zkratka pro Sluneční a heliosférickou observatoř, tedy kosmickou sonduvypuštěnou 2. prosince 1995. Jedná se o společný projekt NASA a ESA určený ke studiu našeho Slunce a studium vesmírného počasí.Původně plánovaná dvouletá mise již pracuje více         než 15 let. Na webové stránce <a href="https://sohowww.nascom.nasa.gov/">https://sohowww.nascom.nasa.gov</a> je dostupný unikátní       archív dat, které tato kosmická sonda získala, který je volně dostupný a dává obrovskou příležitost všemzájemcům ohledně dalšího zpracování. Trpělivý zájemci mohou prohlídkou snímků tzv. sluneční koróny, které byly pořízenypalubními koronografy dostat dokonce k objevu nové komety. Dnes je to sice poněkud obtížnější než v počátcích, protožepočítačoví odborníci vytvořili speciální algoritmy,      které volně dostupné snímky z kosmické sondy pravidelně stahují aanalyzují za účelem objevu nové komety. Nicméně příležitost má stále každý. Podle NASA a ESA jsou data z vládníchvědeckých projektů volně přístupná, může je tedy využít jakýkoli subjekt k nekomerčním účelům, jen je třeba u obrázků uvádětCredit: ESA, NASA.</p>
 <p> 4. </p>
 <p> <a href="https://www.brno.cz/uvodni-strana/">Brno.cz</a> </p>
 <p> <a href="https://mapy.cz">Mapy.cz</a> </p>
