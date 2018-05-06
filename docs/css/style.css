@@ -3,6 +3,16 @@
   }
 
 
+
+.description {
+  color: white;
+  font-family: fantasy;
+  font-weight: 700;
+  text-align: center;
+}
+
+
+
 .wrapper {
   margin: 30px auto;
   max-width: 800px;
@@ -11,11 +21,42 @@
 
 }
 
+ h1{ 
+  font-family: Arial;
+  font-size: xx-large;
+  text-align: center;
+ }
+
+ h2 {
+  font-family: Arial;
+  font-size: x-large;
+  text-align: center;
+ }
+
+
+
+ a {
+    text-decoration: none;
+    color: #8b0000;
+}
+
+p {
+  font-family: Arial;
+  font-size: medium;
+  text-align: justify; 
+
+}
+
 header {
   padding: 30px 0 0;
   border-bottom: solid;
   background: red;
   text-align: center;
+  color: white;
+  font-family: fantasy;
+  font-weight: 600;
+  
+
 
   
 
@@ -25,6 +66,9 @@ footer {
   border-top: solid;
   clear: both;
   background: red;
+  font-family: fantasy;
+  font-weight: 400;
+
 }
 
 .page {
@@ -55,6 +99,10 @@ nav li {
   margin-bottom: 1em;
   background: red;
   text-align: center;
+  font-family: fantasy;
+  font-weight: 600;
+  color: white;
+
 }
 
 nav .active {
