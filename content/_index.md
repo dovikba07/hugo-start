@@ -4,7 +4,7 @@ title: Home
 
 # Poznejte město Brno!
 
-Město Brno je známé jako město s bohatou historií, kterou ilustruje celá řada více či méně známých pamětihodností. Mezi nejznámější patří například Stará Radnice s pověstným kolem a krokodýlem zvaným „brněnský drak“, hrad Špilberg či Katedrála sv. Petra a Pavla; z novějších pak Jurkovičova vila nebo vila Tugendhat.
+Město Brno je známé jako město s bohatou historií, kterou ilustruje celá řada více či méně známých pamětihodností. Mezi nejznámější patří například Stará Radnice s pověstným kolem a krokodýlem zvaným „brněnský drak“, hrad Špilberk či Katedrála sv. Petra a Pavla; z novějších pak Jurkovičova vila nebo vila Tugendhat.
 
 
 ![Brno](https://c1.staticflickr.com/1/27/48218747_7b1fd21753_z.jpg?zz=1)
