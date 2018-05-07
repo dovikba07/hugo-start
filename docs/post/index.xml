@@ -6,10 +6,19 @@
     <description>Recent content on Zajímavá místa Brna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Tue, 13 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dovikba07.github.io/hugo-start/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Úvodem o městě</title>
+      <link>https://dovikba07.github.io/hugo-start/post/another-post/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dovikba07.github.io/hugo-start/post/another-post/</guid>
+      <description>Město Brno je druhé největší město v České republice, a to jak z pohledu počtu obyvatelstva (377 973), tak i rozlohy (230,22 km²). Pyšní se dvěma hrady (Špilberk se nachází poblíž centra města a hrad Veveří leží na samém kraji města), přehradou, kterou v jarní a převážně letní sezóně křižují parníky, Masarykovým okruhem (tedy závodním okruhem, který je jediný svého druhu v České republice a v létě se zde jezdí závody moto GP), hokejovým klubem HC Kometa Brno, který obhájil mistrovský titul Extraligy ledního hokeje, podivuhodným orlojem (který možná umí i ukazovat čas) a spoustou dalších míst a zajímavostí.</description>
+    </item>
     
     <item>
       <title>Welcome to Hugo!</title>
@@ -19,15 +28,6 @@
       <guid>https://dovikba07.github.io/hugo-start/post/welcome-to-hugo/</guid>
       <description>You’ll find this post in your content/post directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command hugo server, which launches a web server and auto-regenerates your site when a file is updated.
 To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
-    </item>
-    
-    <item>
-      <title>Úvodem o městě</title>
-      <link>https://dovikba07.github.io/hugo-start/post/another-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dovikba07.github.io/hugo-start/post/another-post/</guid>
-      <description>Město Brno je druhé největší město v České republice, a to jak z pohledu počtu obyvatelstva (377 973), tak i rozlohy (230,22 km²). Pyšní se dvěma hrady (Špilberk se nachází poblíž centra města a hrad Veveří leží na samém kraji městě), přehradou, po které v jarní a převážně letní sezóně křižují parníky, Masarykovým okruhem (tedy závodním okruhem, který je jediný svého druhu v České republice a v létě se zde jezdí závody moto GP), hokejovým klubem HC Kometa Brno, který se obhájil mistrovský titul Extraligy ledního hokeje, podivuhodným orlojem (který možná umí i ukazovat čas) a spoustou dalších míst a zajímavostí.</description>
     </item>
     
   </channel>
