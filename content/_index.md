@@ -18,3 +18,4 @@ Pojďme se tedy porozhlédnout po metropoli Jihomoravského kraje s tím, že se
 
 
 
+{{ partial "content/tlacitkoFB.html" . }}
