@@ -36,7 +36,9 @@ To add new posts, simply add a file in the content/post directory that follows t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dovikba07.github.io/hugo-start/about/</guid>
-      <description>1.  cílová skupina: turisté a výletníci, kteří rádi objevují nová a zajímavá místa Brna  2.  Seznámit návštěvníky stránek se všelijakými pamětihodnostmi, místy a uměním na území města Brna (i s těmi méně známějšími a neproslavenými). Uživatele by mohly stránky navnadit na výlet do zde popsaných lokalit (tedy posloužili by jako tip na výlet). Celkově by jim mohli rozšířit pohled na město Brno.  3.  Zajímavá místa Brna.</description>
+      <description>1. 
+ cílová skupina: turisté a výletníci, kteří rádi objevují nová a zajímavá místa Brna  2. 
+ Seznámit návštěvníky stránek se všelijakými pamětihodnostmi, místy a uměním na území města Brna (i s těmi méně známějšími a neproslavenými). Uživatele by mohly stránky navnadit na výlet do zde popsaných lokalit (tedy posloužili by jako tip na výlet). Celkově by jim mohli rozšířit pohled na město Brno.  3.</description>
     </item>
     
   </channel>
