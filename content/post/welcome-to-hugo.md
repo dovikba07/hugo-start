@@ -1,18 +1,14 @@
 ---
-title:  "Welcome to Hugo!"
+title:  "Zajímavé sochy"
 date:   2018-03-13
 tags: 
-    - hello world
-    - start
-    - hugo
+    - sochy
+    - památky
+    - Brno
 ---
-You’ll find this post in your `content/post` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command `hugo server`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `content/post` directory that follows the convention `name-of-post.md` and includes the necessary front matter. You can even create it with command `hugo new post/name-of-post.md` (you need to be at site's root folder). Take a look at the source for this post to get an idea about how it works.
+Na území města Brna se nachází celá řada zajímavých soch. Zajímavá je třeba Socha Markrabě Jošta Lucemburského, která se nachází na přestupním uzlu zastávky Česká. Tato socha je zajímavá i tím, že z jistého jiného pohledu zobrazuje i zcela něco jiného, než jen koně a markraběte. 
 
-When you want to publish an article, simply remove `draft: true` from it's front matter.
+Hned naproti ní se nachází Socha spravedlnosti. Obě sochy působí značně moderně. 
 
-
-## What's next?
-
-See [another post]({{< ref "another-post.md" >}}) or head back to [homepage](../../). (Check this paragraph to see the magic behind the between posts.)
+Za zmínku stojí i pouliční sochy, které se vyskytují převážně na sídlištích. Ačkoli pochází z dob socialistických, jsou rozhodně zajímavé a kolikrát je těžké co ta změť tvarů znamená. 
