@@ -5,15 +5,15 @@ publishDir: docs
 
 menu:
   main:
-    - name: Homepage
+    - name: Úvodní stránka
       url: /
       weight: 10
-    - name: Archive
+    - name: Archiv
       identifier: post
       url: /post/
       weight: 20
 
 params:
   description: některá i méně známá
-  authors: Authors
+  authors: Autoři
 
