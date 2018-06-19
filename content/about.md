@@ -30,6 +30,7 @@ mohly stránky navnadit na výlet do zde popsaných lokalit (tedy posloužili by
 <p> <a href="https://www.google.cz/maps">Mapy Google</a> </p>
 <p>   <a href=" https://www.gotobrno.cz/poznejte-brno/poznejte-dalsi-zajimava-mista-v-brne/">Go to Brno</a> </p>
 <p> <a href="https://www.tripadvisor.cz/Attractions-g274714-Activities-c47-t163-Brno_South_Moravian_Region_Moravia.html">tripadvisor.cz</a> </p>
+<p> <a href="http://www.hvezdarna.cz/">Hvězdárna v Brně</a> </p>
 
 
 
